@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "screaming-frog": {
+      "command": "uvx",
+      "args": ["screaming-frog-mcp"],
+      "env": {
+        "SF_CLI_PATH": "/usr/bin/screamingfrogseospider"
+      }
+    }
+  }
+}
